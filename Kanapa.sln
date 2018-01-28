@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanapa", "Kanapa\Kanapa.csproj", "{AB11994F-763D-4A48-AFEB-D6D81D316F8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kanapa.Droid", "Droid\Kanapa.Droid.csproj", "{99A41235-F35F-45E3-A19E-7B324FA27A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A41235-F35F-45E3-A19E-7B324FA27A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A41235-F35F-45E3-A19E-7B324FA27A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A41235-F35F-45E3-A19E-7B324FA27A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A41235-F35F-45E3-A19E-7B324FA27A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB11994F-763D-4A48-AFEB-D6D81D316F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB11994F-763D-4A48-AFEB-D6D81D316F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB11994F-763D-4A48-AFEB-D6D81D316F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB11994F-763D-4A48-AFEB-D6D81D316F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

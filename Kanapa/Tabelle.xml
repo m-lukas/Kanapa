@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ArrayOfPreEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">	
+	<PreEvent>
+		<isFavorite>false</isFavorite>
+		<id>2</id>
+		<germanDisplayName>Camillo hört Vinyll!!!! </germanDisplayName>
+		<polishDisplayName>Camillo hört Vinyll!!!! </polishDisplayName>
+		<locationGerman>Café Herzstück, Weberstraße 2, 02826 Görlitz, Deutschland</locationGerman>
+		<locationPolish>Café Herzstück, Weberstraße 2, 02826 Görlitz, Deutschland</locationPolish>
+		<dateStart>2016/10/20, 15:20:00</dateStart>
+		<dateEnd>2016/10/20, 16:00:00</dateEnd>
+		<descriptionGerman>Konzert von Vinyll ... Seid alle mit dabei!</descriptionGerman>
+		<descriptionPolish>Konzert von Vinyll ... Seid alle mit dabei!</descriptionPolish>
+		<imageUrl>http://www.eventinc.de/system/provider_pictures/pictures/000/012/483/medium/agentur_berlin_elaevents_05.jpg.pagespeed.ce.5RwxBzHEkA.jpg</imageUrl>
+	</PreEvent>	
+	
+	<PreEvent>
+		<isFavorit>false</isFavorit>
+		<id>3</id>
+		<germanDisplayName>Annemarie (Singer-Songwriter)</germanDisplayName>
+		<polishDisplayName>Annemarie </polishDisplayName>
+		<locationGerman>Café Herzstück, Weberstraße 2, 02826 Görlitz, Deutschland</locationGerman>
+		<locationPolish>Café Herzstück, Weberstraße 2, 02826 Görlitz, Deutschland</locationPolish>
+		<dateStart>2016/10/17 20:00:00</dateStart>
+		<dateEnd>2016/10/17 20:45:00</dateEnd>
+		<descriptionGerman>Entspannte Singer-Songwriter-Musik in Görlitz' gemütlichster Konzertlocation!</descriptionGerman>
+		<descriptionPolish>Entspannte Singer-Songwriter-Musik in Görlitz' gemütlichster Konzertlocation!</descriptionPolish>
+		<imageUrl>https://static1.squarespace.com/static/54ecbb81e4b02904f4e167e8/t/55041267e4b023db67229dcf/1426330216156/events.jpg?format=1500w</imageUrl>
+	</PreEvent>
+
+	<PreEvent>
+		<isFavorit>false</isFavorit>
+		<id>1</id>
+		<germanDisplayName>Altstadtfest</germanDisplayName>
+		<polishDisplayName>Altstadtfest </polishDisplayName>
+		<locationGerman>Altstadt Görlitz, Deutschland</locationGerman>
+		<locationPolish>Altstadt Görlitz, Deutschland</locationPolish>
+		<dateStart>2016/11/5 12:00:00</dateStart>
+		<dateEnd>2016/11/15 22:00:00</dateEnd>
+		<descriptionGerman>Volksfest im Herzen von Görlitz.</descriptionGerman>
+		<descriptionPolish>Volksfest im Herzen von Görlitz.</descriptionPolish>
+		<imageUrl>http://www.80studio.net/storage/cache/images/000/578/DPS7704,medium_large.1470347869.jpg</imageUrl>
+	</PreEvent>
+
+	<PreEvent>
+		<isFavorit>false</isFavorit>
+		<id>4</id>
+		<germanDisplayName>CanSat Workshop</germanDisplayName>
+		<polishDisplayName>CanSat Workshop </polishDisplayName>
+		<locationGerman>Rabryka, Bauzener Straße 32, 02826 Görlitz, Deutschland</locationGerman>
+		<locationPolish>Rabryka, Bauzener Straße 32, 02826 Görlitz, Deutschland</locationPolish>
+		<dateStart>2016/10/22 7:30:00</dateStart>
+		<dateEnd>2016/10/29 15:30:00</dateEnd>
+		<descriptionGerman>Entwickle einen eigenen Micro-Satelliten aus einer Getränkedose.</descriptionGerman>
+		<descriptionPolish>Entwickle einen eigenen Micro-Satelliten aus einer Getränkedose.</descriptionPolish>
+		<imageUrl>http://www.cansat.de/Logos/CanSat_Germany.jpg</imageUrl>
+	</PreEvent>
+
+	<PreEvent>
+		<isFavorit>false</isFavorit>
+		<id>5</id>
+		<germanDisplayName>Annemarie (Singer-Songwriter)</germanDisplayName>
+		<polishDisplayName>Annemarie </polishDisplayName>
+		<locationGerman>Café Herzstück, Weberstraße 2, 02826 Görlitz, Deutschland</locationGerman>
+		<locationPolish>Café Herzstück, Weberstraße 2, 02826 Görlitz, Deutschland</locationPolish>
+		<dateStart>2016/11/23 15:00:00</dateStart>
+		<dateEnd>2016/11/3 16:30:00</dateEnd>
+		<descriptionGerman>Entspannte Singer-Songwriter-Musik in Görlitz' gemütlichster Konzertlocation!</descriptionGerman>
+		<descriptionPolish>Entspannte Singer-Songwriter-Musik in Görlitz' gemütlichster Konzertlocation!</descriptionPolish>
+		<imageUrl>https://static1.squarespace.com/static/54ecbb81e4b02904f4e167e8/t/55041267e4b023db67229dcf/1426330216156/events.jpg?format=1500w</imageUrl>
+	</PreEvent>
+
+	<PreEvent>
+		<isFavorit>false</isFavorit>
+		<id>6</id>
+		<germanDisplayName>Janusz Korwin-Mikke in Zgorzelec</germanDisplayName>
+		<polishDisplayName>Janusz Korwin-Mikke w Zgorzelcu</polishDisplayName>
+		<locationGerman>Miejski Dom Kultury w Zgorzelcu, Zgorzelec</locationGerman>
+		<locationPolish> Miejski Dom Kultury w Zgorzelcu, Zgorzelec</locationPolish>
+		<dateStart>2016/11/5 13:30:00</dateStart>
+		<dateEnd>2016/11/5 15:45:00</dateEnd>
+		<descriptionGerman>Wir laden Sie ein zu einem Treffen mit dem Präsidenten der Partei Korwin, MEP Janusz Korwin-Mikke.</descriptionGerman>
+		<descriptionPolish>Zapraszamy na spotkanie z Prezesem partii KORWiN, europosłem Januszem Korwin-Mikke</descriptionPolish>
+		<imageUrl>https://scontent.xx.fbcdn.net/t31.0-8/s720x720/14542528_1136629586423555_2708777628682116205_o.png</imageUrl>
+	</PreEvent>
+</ArrayOfPreEvent>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Kanapa.EventsPage" xmlns:cv="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView" xmlns:local="clr-namespace:Kanapa;assembly=Kanapa">
+	<ContentPage.Content>
+		<AbsoluteLayout x:Name="absoluteLayout">
+			<ListView x:Name="EventsList" Grid.Row="1" Grid.Column="0" BackgroundColor="Transparent" SeparatorVisibility="None" CachingStrategy="RecycleElement" MinimumHeightRequest="80" HasUnevenRows="true" AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0,0,1,1">
+			  <!--<ListView.Header>
+			    <cv:CarouselView x:Name="eventsCarousel" HeightRequest="150">
+			      <cv:CarouselView.ItemTemplate>
+			        <DataTemplate>
+			          <Grid>
+			            <Grid.RowDefinitions>
+			              <RowDefinition Height="*"/>
+			              <RowDefinition Height="Auto"/>
+			            </Grid.RowDefinitions>
+			            <Image Grid.RowSpan="2" Aspect="AspectFill" Source="{Binding imageUrl}"/>
+			            <StackLayout Grid.Row="1" BackgroundColor="#80000000" Padding="12" Orientation="Horizontal">
+						  <Label x:Name="dateLabel" Text="{Binding dateStart,Converter={StaticResource dateConverter}}" TextColor="White" WidthRequest="100" FontSize="16" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontAttributes="Bold"/>
+			              <Label x:Name="titleLabel" Text="{Binding germanDisplayName}" TextColor="White" FontSize="16" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" LineBreakMode="TailTruncation"/>
+			            </StackLayout>
+			          </Grid>
+			        </DataTemplate>
+			      </cv:CarouselView.ItemTemplate>
+			    </cv:CarouselView>
+			  </ListView.Header>-->
+			</ListView>
+			<ActivityIndicator x:Name="activityIndicator" HeightRequest="50" WidthRequest="50" IsRunning="true" Color="White" HorizontalOptions="Center" VerticalOptions="Center"/>
+        </AbsoluteLayout>
+	</ContentPage.Content>
+	<ContentPage.Resources>
+  		<ResourceDictionary>
+     		<local:simpleDateConverter x:Key="dateConverter" />
+   		</ResourceDictionary>
+ 	</ContentPage.Resources>
+</ContentPage>

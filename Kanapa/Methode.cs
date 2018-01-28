@@ -1,0 +1,6 @@
+﻿namespace Kanapa
+{
+	class Methode
+	{
+	}
+}

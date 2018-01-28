@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<color name="actionBarBackgroundColor">#443e3e</color>
+	<color name="actionBarTextColor">#DDDDDD</color>
+	<color name="window_background">#FFFFFF</color>
+	<color name="text_color">#FFFFFF</color>
+ 
+	<style name="MyTheme" parent="@android:style/Theme.Holo.Light">
+		<item name="android:actionBarStyle">@style/MyTheme.ActionBarStyle</item>
+		<item name="android:logo">@drawable/actionbar_space_between_icon_and_title</item>
+		<item name="android:actionMenuTextColor">@color/text_color</item>
+	</style>
+	<style name="MyTheme.ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar">
+		<item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+		<item name="android:background">@color/actionBarBackgroundColor</item>
+	</style>
+	<style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+		<item name="android:textColor">@color/actionBarTextColor</item>
+	</style>
+	    <style name="Widget.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+    </style>
+</resources>

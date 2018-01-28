@@ -1,0 +1,65 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{99A41235-F35F-45E3-A19E-7B324FA27A33}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Kanapa\MapPage.cs" Line="19" Column="23" />
+      <File FileName="Kanapa\myCarouselPage.cs" Line="89" Column="5" />
+      <File FileName="Droid\MainActivity.cs" Line="13" Column="49" />
+      <File FileName="Kanapa\InfoPage.cs" Line="28" Column="35" />
+      <File FileName="Kanapa\EventManager.cs" Line="26" Column="69" />
+      <File FileName="Kanapa\EventDetailPage.xaml.cs" Line="365" Column="4" />
+      <File FileName="Kanapa\CalenderPage.cs" Line="102" Column="65" />
+      <File FileName="Kanapa\ImageSoureConverter.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\Methods.cs" Line="215" Column="13" />
+      <File FileName="Kanapa\SaveResourceText.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\LoadResourceText.cs" Line="25" Column="7" />
+      <File FileName="Kanapa\Kanapa.cs" Line="46" Column="2" />
+      <File FileName="Kanapa\Event.cs" Line="50" Column="2" />
+      <File FileName="Kanapa\EventCell.cs" Line="72" Column="21" />
+      <File FileName="Kanapa\tinyEventCell.cs" Line="26" Column="109" />
+      <File FileName="Kanapa\DayDetailPage.cs" Line="21" Column="43" />
+      <File FileName="Kanapa\PreEvent.cs" Line="21" Column="31" />
+      <File FileName="Kanapa\LoadResource.cs" Line="17" Column="62" />
+      <File FileName="Kanapa\SaveResource.cs" Line="57" Column="3" />
+      <File FileName="Kanapa\FavoriteToColorConverter.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\EventsPage.xaml" Line="24" Column="27" />
+      <File FileName="Kanapa\EventsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\Tabelle.xml" Line="1" Column="1" />
+      <File FileName="Droid\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\EventDetailPage.xaml" Line="1" Column="1" />
+      <File FileName="..\..\..\..\..\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets" Line="1820" Column="30" />
+      <File FileName="Kanapa\simpleDateConverter.cs" Line="16" Column="41" />
+      <File FileName="Kanapa\MonthFromDateTimeConverter.cs" Line="31" Column="8" />
+      <File FileName="Kanapa\shortMonthFromDayTimeConverter.cs" Line="126" Column="1" />
+      <File FileName="Kanapa\MasterPage.cs" Line="11" Column="6" />
+      <File FileName="Kanapa\MenuPage.cs" Line="10" Column="6" />
+      <File FileName="Droid\Resources\values\styles.xml" Line="21" Column="13" />
+      <File FileName="Droid\BarRenderer.cs" Line="25" Column="46" />
+      <File FileName="Droid\BarRendererDetailPage.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\DateStringFromDateTimeConverter.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\ISaveAndLoad.cs" Line="22" Column="2" />
+      <File FileName="Kanapa\AndroidMethods.cs" Line="12" Column="1" />
+      <File FileName="Kanapa\IEnter.cs" Line="5" Column="2" />
+      <File FileName="Kanapa\IMethods.cs" Line="4" Column="27" />
+      <File FileName="Droid\AndroidMethods.cs" Line="13" Column="4" />
+      <File FileName="Droid\SaveAndLoad_Android.cs" Line="3" Column="1" />
+      <File FileName="Kanapa\LanguagePage.cs" Line="88" Column="4" />
+      <File FileName="Kanapa\GroupHeaderCell.cs" Line="17" Column="111" />
+      <File FileName="Kanapa\DateSizeConverter.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\DateStringFromDateTimeConverter2.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\DayFromDateTimeConverter.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\DayOfWeekFromDateTimeConverter.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\Group.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\SizeFromLenghtConverter.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\TimeFromDateTimeConverter.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\TimeFromDayTimeConverter2.cs" Line="1" Column="1" />
+      <File FileName="Kanapa\YearFromDateTimeConverter.cs" Line="1" Column="1" />
+      <File FileName="Droid\Properties\AndroidManifest.xml" Line="15" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Kanapa.Droid PreferredExecutionTarget="Android.Emulator" />
+</Properties>
