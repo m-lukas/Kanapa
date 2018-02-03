@@ -3,3 +3,11 @@ Droid/obj/* linguist-vendored
 packages/* linguist-vendored
 .vs/Kanapa/v15/* linguist-vendored
 UpgradeLog.htm linguist-vendored
+Kanapa/obj/* linguist-vendored
+Kanapa/bin/* linguist-vendored
+Kanapa/Properties/* linguist-vendored
+Droid/obj/* linguist-vendored
+Droid/bin/* linguist-vendored
+Droid/Properties/* linguist-vendored
+Droid/Assets/* linguist-vendored
+Droid/Resources/* linguist-vendored
