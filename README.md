@@ -4,7 +4,7 @@
 ## Description
 
 Kanapa is a cross-platform mobile event calender which was build in cooperation with the same-named youth-project.
-The App also paticipated in the App-Contest Hamburg 2016.
+The app also paticipated in the App-Contest Hamburg 2016.
 
 Today, Görlitz and Zgorzelec are two neighbouring cities which got seperated after the second world war. The purpose of this app was to share events beyond borders and thereby to strengthen the cultural life of this region.
 
